@@ -1,0 +1,43 @@
+reflections
+
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+
+it is agood idea to have versions of your document for some reasone 
+1- if you have a mistake you can notece it easly 
+2-if work seem different and the last one not satisfy you you can back to any version 
+3- if you lost last file thats not aproblem because there is other version of it and mybe there is a backup of it itself
+
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+1-safe time for looking about the file
+2-make me sure this is the the version i want to back to if it have it's day
+  
+
+
+
+What do you think are the pros and cons of manually choosing when to create a commit, 
+like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+advanteges of commit manualy is :
+1 - you save version of file when you need or when you make important change
+2 - easy to read and understand difference between versions 
+
+disadvanteges of commit automaticly is:
+1- commit things you don't need to commit
+2- maybe differences gets biger than to read and understand 
+3- may be differences commit gets smaller then you will have many many files with minor changes and this would be a lot
+
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, 
+while others, like Google Docs, treat each file separately?
+
+--because these files maybe related to each other and affect in one another.
+
+
+How might using version control make you more confident to make changes that could break something?
+i don't panic any time crisis happend because i always have old version to back to.
+
+
+Now that you have your workspace set up, what do you want to try using Git for?
+want get for my develop work
